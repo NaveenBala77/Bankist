@@ -18,7 +18,7 @@ let movement = document.querySelector('.movements');
 
 let account1 = {
   message: "logged successfully",
-  user: "annamalai",
+  user: "naveen",
   pin: 333,
   balance: 6800,
   movements: []
